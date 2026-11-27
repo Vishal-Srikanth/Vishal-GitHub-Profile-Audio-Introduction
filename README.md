@@ -50,7 +50,12 @@ Rather than simply uploading an audio file to GitHub, I designed and implemented
 
 ## AWS Architecture
 
-![AWS Architecture Diagram](./aws-architecture.png)
+<!-- Centered Dashboard Preview -->
+<p align="center">
+  <img src="github-profile-audio-intro-aws-architecture.drawio.png" alt="AWS Architecture Diagram" width="600px">
+</p>
+
+[AWS Architecture Diagram](github-profile-audio-intro-aws-architecture.drawio.png)
 
 The architecture separates content generation, persistent storage, content delivery, and portfolio presentation into distinct responsibilities.
 
