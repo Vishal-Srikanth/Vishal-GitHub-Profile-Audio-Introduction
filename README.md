@@ -17,6 +17,11 @@ The project combines secure cloud infrastructure with GitHub portfolio integrati
 
 </div>
 
+<!-- Centered Dashboard Preview -->
+<p align="center">
+  <img src="github-profile-audio-intro-aws-architecture.drawio.png" alt="AWS Architecture Diagram" width="600px">
+</p>
+
 ---
 
 ## Motivation
@@ -49,11 +54,6 @@ Rather than simply uploading an audio file to GitHub, I designed and implemented
 | cURL | Command-line HTTP testing |
 
 ## AWS Architecture
-
-<!-- Centered Dashboard Preview -->
-<p align="center">
-  <img src="github-profile-audio-intro-aws-architecture.drawio.png" alt="AWS Architecture Diagram" width="600px">
-</p>
 
 [AWS Architecture Diagram](github-profile-audio-intro-aws-architecture.drawio.png)
 
