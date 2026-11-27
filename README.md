@@ -17,6 +17,9 @@ The project combines secure cloud infrastructure with GitHub portfolio integrati
 
 </div>
 
+---
+
+[AWS Architecture Diagram made using Draw.io]
 <!-- Centered Dashboard Preview -->
 <p align="center">
   <img src="github-profile-audio-intro-aws-architecture.drawio.png" alt="AWS Architecture Diagram" width="600px">
@@ -55,11 +58,11 @@ Rather than simply uploading an audio file to GitHub, I designed and implemented
 
 ## AWS Architecture
 
-[AWS Architecture Diagram](github-profile-audio-intro-aws-architecture.drawio.png)
-
 The architecture separates content generation, persistent storage, content delivery, and portfolio presentation into distinct responsibilities.
 
 Amazon S3 remains private, while CloudFront serves as the public-facing HTTPS delivery endpoint. GitHub independently hosts the MP4 version for convenient inline playback.
+
+[AWS Architecture Diagram](github-profile-audio-intro-aws-architecture.drawio.png)
 
 ## Methodology
 
@@ -136,4 +139,10 @@ The complete CloudFront cache lifecycle was successfully validated:
 - [Original SSML Source](./intro.ssml)
 - [AWS Architecture Diagram](./aws-architecture.png)
 - [CloudFront Audio Endpoint](https://d3hdbo4wynu8c.cloudfront.net/intro.mp3)
+
+## Tech Stack
+- Audio Generation: Amazon Polly
+- Storage: Amazon S3
+- Delivery: Amazon CloudFront
+- Architecture Diagram: Draw.io
 
