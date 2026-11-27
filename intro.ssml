@@ -1,0 +1,87 @@
+<speak>
+    <prosody rate="95%">
+
+        Hi, I'm Vishal <phoneme alphabet="ipa" ph="sriːkɑːnθ">Srikanth</phoneme>.
+        Welcome to my GitHub profile!
+        <break time="200ms"/>
+
+        I'm a recent, Honours Data Science graduate, from 
+        Wilfrid Laurier University, specializing in 
+        big data analytics, machine learning, 
+        workflow automation, and now,
+        <break time="150ms"/>
+        cloud architecture!
+
+        <break time="400ms"/>
+
+        My core stack centers around Python, 
+        <say-as interpret-as="characters">SQL</say-as>,
+        and R, alongside Tableau, Power B I,
+        and automation tools like 
+        <break time="150ms"/>
+        Google Apps Script, 
+        and Power <phoneme alphabet="ipa" ph="ˈɔtəmeɪt">Automate</phoneme>.
+
+        <break time="400ms"/>
+
+        But I don't just analyze data.
+        <break time="150ms"/>
+            I love solving problems and building solutions!
+        <break time="300ms"/>
+
+        My portfolio spans projects built on concepts like
+        graph theory, reinforcement learning, statistical analysis,
+        natural language processing,  predictive modeling and more!
+
+        <break time="350ms"/>
+
+        Complementing my technical work, 
+        I led a twenty-person executive team as President 
+        of the Laurier Analytics Society,
+        designing Datathons and scaling partnerships 
+        with major financial organizations and Big Tech!
+
+        <break time="350ms"/>
+
+        Today, I'm looking for opportunities in
+        Data Science, Analytics, 
+        <sub alias="M L Ops">MLOps</sub>,
+        or Cloud Solutions,
+        <break time="250ms"/>
+        where I can keep learning and building 
+        impactful systems!
+
+        <break time="400ms"/>
+
+        Thanks for stopping by my GitHub profile!
+        <break time="250ms"/>
+
+        Check out my dashboards, project repos,
+        <break time="100ms"/>
+        and connect with me on LinkedIn.
+        <break time="250ms"/>
+
+         You can find the links right below!
+
+    </prosody>
+
+    <break time="250ms"/>
+
+    <prosody rate="115%">
+        And if you're curious about this audio narration,
+        <break time="150ms"/>
+        I built it using Amazon Polly,
+        <say-as interpret-as="characters">S3</say-as>,
+        and CloudFront,
+        as a creative, hands-on way to explore
+        <say-as interpret-as="characters">AWS</say-as>,
+        and develop my cloud engineering skills.
+    </prosody>
+
+    <break time="200ms"/>
+
+    <prosody rate="100%" pitch="+3%">
+        I hope you have a wonderful day ahead!
+    </prosody>
+
+</speak>
