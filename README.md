@@ -17,9 +17,8 @@ The project combines secure cloud infrastructure with GitHub portfolio integrati
 
 </div>
 
----
 
-[AWS Architecture Diagram made using Draw.io]
+###### [AWS Architecture Diagram made using Draw.io]
 <!-- Centered Dashboard Preview -->
 <p align="center">
   <img src="github-profile-audio-intro-aws-architecture.drawio.png" alt="AWS Architecture Diagram" width="600px">
